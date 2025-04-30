@@ -1,4 +1,4 @@
-.container {
+container {
     font-family: monospace;
     display: grid;
     grid-template-columns: 1fr 3fr;
